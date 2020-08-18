@@ -14,5 +14,5 @@ Running the script using pipenv
 
 ```
 pipenv install
-pipenv run "python find_meteor.py"
+pipenv run "python meteors/find_meteor.py"
 ```
